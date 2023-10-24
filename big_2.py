@@ -1,5 +1,5 @@
-#this code get 3 numbers and see's which one is bigger
-#made by @simmihacks 12/24/17: Merry Christmas!!!!
+# This code get 3 numbers and see's which one is bigger
+# made by @simmihacks 12/24/17: Merry Christmas!!!!
 
 a = int(input("please enter a num: "))
 b = int(input("please enter another num: "))
